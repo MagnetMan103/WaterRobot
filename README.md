@@ -11,9 +11,10 @@ To run the files in python, the pyrf24 library is needed:
 
 ` pip install pyrf24 `
 
-For usage, you would have to the arduino with the control script, then run both python scripts at the same time.
+For usage, you would have to load the arduino with the control script, then run both python scripts at the same time.
 
 ` python pi_transmitter.py `
+
 ` python pi_receiver.py `
 
 # Documentation
